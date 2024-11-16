@@ -1,2 +1,2 @@
-**Online learing Platform**
+**Online learning Platform**
 
