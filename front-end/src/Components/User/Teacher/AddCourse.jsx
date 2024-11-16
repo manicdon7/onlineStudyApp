@@ -89,9 +89,6 @@ const AddCourse = () => {
             },
          });
 
-         console.log(res);
-         
-
          if (res.status === 201) {
             if (res.data.success) {
                alert(res.data.message);
